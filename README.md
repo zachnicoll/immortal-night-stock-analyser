@@ -6,6 +6,7 @@ To run this program you must download Python from https://www.python.org/, and i
 Beautiful Soup - type 'pip install bs4' into Windows Command Prompt to install this package.
 MatPlotLib - type 'pip install matplotlib' into Windows Command Prompt to install this package.
 Numpy - type 'pip install numpy' into Windows Command Prompt to install this package.
+Requests - type 'pip install requests' into Windows Command Prompt to install this package.
 
 Once these packages have been installed, simply run the program with Python and enjoy :)
 
