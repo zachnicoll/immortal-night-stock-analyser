@@ -8,8 +8,8 @@ import numpy as np
 
 URL_LOGIN = 'https://www.immortalnight.com/authenticate.php'
 payload = {
-    'username' : 'webscraper',
-    'password' : '.d4v1sEmm4'
+    'username' : 'some_user',
+    'password' : 'some_password'
 }
 
 URL_HAPM = 'http://www.immortalnight.com/stocks.php?action=hist&s=HAPM'
